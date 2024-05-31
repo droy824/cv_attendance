@@ -1,7 +1,6 @@
-# cv_attendance
-## Computer Vision Based Attendance System
+# Computer Vision Based Attendance System
 
-### Introduction
+## Introduction
 This project is a face scanning attendance system which scans facial patterns and stores it with the student information to help mark attendance. 
 Python's tkinter library makes up for our GUI while MySQL is used to store and fetch information. 
 All student details and attendance records are written into CSV files.
@@ -16,13 +15,13 @@ This database has been programmed to be accessed by the host to check the attend
 
 Spectrum estimates the problem and delivers the solution with utmost accuracy thanks to Adam Geitgey's face_recognition module which detects facial patterns even in non-ideal conditions.
 
-### Description
+## Description
 While this project is quite deep in code, the execution is rather very simple. 
 
 Just a 3-step process entailing – Image Capture, Image Training, Marking of Attendance, makes this project a very easy to understand project.
 In addition, to really provide a spectrum of an experience, a search toolkit has been added to rectify/quickly search student details which provides an ease of access.
 
-### Output
+## Output
 The primary windows of the system include:
 
 1. The home window:
